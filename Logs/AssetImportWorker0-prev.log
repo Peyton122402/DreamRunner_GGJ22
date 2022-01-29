@@ -1,0 +1,2285 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18363) 64bit Enterprise' Language: 'en' Physical Memory: 16312 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/pp668920/Documents/GitHub/DreamRunner_GGJ22
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58862
+Successfully changed project path to: C:/Users/pp668920/Documents/GitHub/DreamRunner_GGJ22
+C:/Users/pp668920/Documents/GitHub/DreamRunner_GGJ22
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 106.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pp668920/Documents/GitHub/DreamRunner_GGJ22/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   
+    VRAM:     11127 MB
+    Driver:   30.0.15.1123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.003237 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 106.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.584 seconds
+Domain Reload Profiling:
+	ReloadAssembly (584ms)
+		BeginReloadAssembly (46ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (473ms)
+			LoadAssemblies (45ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (132ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (220ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (107ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (69ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004698 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 105.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.811 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1811ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (1612ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (1040ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (793ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.4 MB.
+System memory in use after: 216.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 6.510100 ms (FindLiveObjects: 0.642100 ms CreateObjectMapping: 0.458900 ms MarkObjects: 5.286900 ms  DeleteObjects: 0.121000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Assets.index
+  artifactKey: Guid(c7247cdb58811e34a9500252dc0ca50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets.index using Guid(c7247cdb58811e34a9500252dc0ca50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40bcdf8ba2f3cd10e9b8acf6c315d5c') in 0.077757 seconds 
+  Import took 0.088310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004406 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1119ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (953ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (316ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (395ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.4 MB.
+System memory in use after: 204.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6122.
+Total: 4.106600 ms (FindLiveObjects: 0.392800 ms CreateObjectMapping: 0.235800 ms MarkObjects: 3.407800 ms  DeleteObjects: 0.069700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 814.806125 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(27431c86949920d438fd453c535f3602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(27431c86949920d438fd453c535f3602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81febb2989e1a5a1168a99c4a23ae197') in 0.011994 seconds 
+  Import took 0.019763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.046655 seconds.
+  path: Assets/Resources/Model
+  artifactKey: Guid(3b557f2e2c5a08a4890b56b63d7859ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model using Guid(3b557f2e2c5a08a4890b56b63d7859ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c63528d740dcd8bb913893ebd4fdbe13') in 0.007096 seconds 
+  Import took 0.014580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.818893 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Bevel.png
+  artifactKey: Guid(423c4e83d69f7f546bdd6958ef6a3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Bevel.png using Guid(423c4e83d69f7f546bdd6958ef6a3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cacd3c18f578ed06b85aa8ddadf5cbab') in 0.060766 seconds 
+  Import took 0.070313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_Cursor.png
+  artifactKey: Guid(d30b0b4f180c34043907dd1c592e60e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_Cursor.png using Guid(d30b0b4f180c34043907dd1c592e60e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0179d2e97531cb2ad45994879f348f08') in 0.016741 seconds 
+  Import took 0.025992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectVertex.png
+  artifactKey: Guid(71d040f00c70b9c4bbc24abe5ff5e7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectVertex.png using Guid(71d040f00c70b9c4bbc24abe5ff5e7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dfeae459e524e9457d47f593c924a3') in 0.012320 seconds 
+  Import took 0.020064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelect.png
+  artifactKey: Guid(63c2e8983afeda24197bd0ea3bfc5008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelect.png using Guid(63c2e8983afeda24197bd0ea3bfc5008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b955470d689d3b78f7f2dc455fc70c6') in 0.012236 seconds 
+  Import took 0.020776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_CombineObjects.png
+  artifactKey: Guid(ff38c73798455a84591ae7af5fff241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_CombineObjects.png using Guid(ff38c73798455a84591ae7af5fff241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c5668be091630e3fac57094add4a96') in 0.010624 seconds 
+  Import took 0.018532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_AxisFlip.png
+  artifactKey: Guid(7d04fd07e920fdb4499f1ad59510c7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_AxisFlip.png using Guid(7d04fd07e920fdb4499f1ad59510c7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710c4b483044edc90d593f9c9eddf92d') in 0.009910 seconds 
+  Import took 0.017904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_PolygonGroup.png
+  artifactKey: Guid(ca934382f325ff241839b0929317a5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_PolygonGroup.png using Guid(ca934382f325ff241839b0929317a5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7806df107213f8137c1fb70631e29b0') in 0.011855 seconds 
+  Import took 0.021242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Detach.png
+  artifactKey: Guid(8a039dbb4d5ec014780ca7f469c09315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Detach.png using Guid(8a039dbb4d5ec014780ca7f469c09315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3844ec32cd9eef870c507983e1d626a4') in 0.010020 seconds 
+  Import took 0.017322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_VertexColor.png
+  artifactKey: Guid(d66b3c9a7978d664f9eb212306888e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_VertexColor.png using Guid(d66b3c9a7978d664f9eb212306888e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceae36157321e30c42885bb591fb2a00') in 0.054716 seconds 
+  Import took 0.062112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_Disk.png
+  artifactKey: Guid(4e3050e32196f984dbc3eec3b3bd22bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_Disk.png using Guid(4e3050e32196f984dbc3eec3b3bd22bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3acbb4fb6ef4dd800bddc34d784577') in 0.063902 seconds 
+  Import took 0.070388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Drawing.png
+  artifactKey: Guid(bd5632c3f35fd1049a259e555e7b4cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Drawing.png using Guid(bd5632c3f35fd1049a259e555e7b4cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9d9a33157287e57de97acd2869b682') in 0.011694 seconds 
+  Import took 0.019995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectPolygon.png
+  artifactKey: Guid(9204f3ffef7f54d439793dd81bc68154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectPolygon.png using Guid(9204f3ffef7f54d439793dd81bc68154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d27c3c82c0af59aaf3a7739d82bb94') in 0.120521 seconds 
+  Import took 0.128496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_NewUModelerObject.png
+  artifactKey: Guid(ca075e22210760242bcbb5b8f27e2117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_NewUModelerObject.png using Guid(ca075e22210760242bcbb5b8f27e2117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036648fcaab01248c5f90c2007def6b1') in 0.011306 seconds 
+  Import took 0.018871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelectPolygon.png
+  artifactKey: Guid(da5685c6fbf6d2b43a8a31ffe9857416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelectPolygon.png using Guid(da5685c6fbf6d2b43a8a31ffe9857416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04e55d0b9b619a102849f75b10cab88') in 0.010265 seconds 
+  Import took 0.018156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelect.png
+  artifactKey: Guid(cfc9a5c01c214676b97bb420adb956cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelect.png using Guid(cfc9a5c01c214676b97bb420adb956cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb95ec11f2be6e4cfe7fb1c64705194d') in 0.012214 seconds 
+  Import took 0.020298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_IsoscelesAngledTriangle.png
+  artifactKey: Guid(0b7828182cb522e40a15628cff9852b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_IsoscelesAngledTriangle.png using Guid(0b7828182cb522e40a15628cff9852b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f25372213a83a98abda061f09071db7') in 0.011850 seconds 
+  Import took 0.019067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BridgeVertices.png
+  artifactKey: Guid(2711c34c62e6f91488bbf4d31d20335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BridgeVertices.png using Guid(2711c34c62e6f91488bbf4d31d20335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30288484d5e209404c492f70d9cee59') in 0.009912 seconds 
+  Import took 0.018215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Boolean.png
+  artifactKey: Guid(191572f6569aaf041bddcc67847e10ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Boolean.png using Guid(191572f6569aaf041bddcc67847e10ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1391daddeb40641429de713a44880038') in 0.011403 seconds 
+  Import took 0.019810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectEdge.png
+  artifactKey: Guid(6d1ce7b3500849443b70bdcf2a97fb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectEdge.png using Guid(6d1ce7b3500849443b70bdcf2a97fb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22872921d152547ec12023c5c1764ea') in 0.010417 seconds 
+  Import took 0.018933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectVertex.png
+  artifactKey: Guid(2bebc8e21d1c1954ba628a0084a5cd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectVertex.png using Guid(2bebc8e21d1c1954ba628a0084a5cd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dc6c64da46a5ceff11ce1b55002928') in 0.010709 seconds 
+  Import took 0.020569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectEdge.png
+  artifactKey: Guid(c3e83b64533ae2040a16bb1321c70103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectEdge.png using Guid(c3e83b64533ae2040a16bb1321c70103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b650c363b7f4c479e410efd714e8d52') in 0.012518 seconds 
+  Import took 0.020201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_RoundedRectangle.png
+  artifactKey: Guid(2c8bc767c26e61e428c8f2e4a4bf7cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_RoundedRectangle.png using Guid(2c8bc767c26e61e428c8f2e4a4bf7cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79bbf72591d77302285b2ef81f426ea') in 0.044062 seconds 
+  Import took 0.052668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_Collider.png
+  artifactKey: Guid(2b6070e032e344442aa383ef9d161f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_Collider.png using Guid(2b6070e032e344442aa383ef9d161f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b892823854228cd0dcb6665a57db0e48') in 0.010962 seconds 
+  Import took 0.017735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelectEdge.png
+  artifactKey: Guid(d82469542ba2dca4699d0ca3f00d446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelectEdge.png using Guid(d82469542ba2dca4699d0ca3f00d446f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49fa00b47329e119172a20dee4ef1d0') in 0.061637 seconds 
+  Import took 0.068916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_SideStair.png
+  artifactKey: Guid(d567dbf50e1cfdf42a62951ea70bfd1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_SideStair.png using Guid(d567dbf50e1cfdf42a62951ea70bfd1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b62f1f80767885d5344f51ef62ba8c') in 0.010347 seconds 
+  Import took 0.017672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BooleanUnion.png
+  artifactKey: Guid(8becd3be898f8184ca92bfc0ff719ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BooleanUnion.png using Guid(8becd3be898f8184ca92bfc0ff719ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0195fc9f77ad3604558e51b6ae8f296') in 0.010393 seconds 
+  Import took 0.019146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Selection.png
+  artifactKey: Guid(a5a3d8b73faa5af418ad6f30e4a67d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Selection.png using Guid(a5a3d8b73faa5af418ad6f30e4a67d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ed3ce9791848de196c2f7edda0be01') in 0.054463 seconds 
+  Import took 0.061572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignBottom.png
+  artifactKey: Guid(79685fa95d503e44cb9b77e1bc253340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignBottom.png using Guid(79685fa95d503e44cb9b77e1bc253340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e35c6aa30c7cf53fbbed2c8916f2e5') in 0.060975 seconds 
+  Import took 0.067994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Elements_Edge.png
+  artifactKey: Guid(790bdf0f5e3f08c4eb4eb4742e84157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Elements_Edge.png using Guid(790bdf0f5e3f08c4eb4eb4742e84157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067f54630eec663ce72d626ddb21cb2a') in 0.009885 seconds 
+  Import took 0.017344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignRight.png
+  artifactKey: Guid(5415c9f5e89f798429d67d017aabc35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignRight.png using Guid(5415c9f5e89f798429d67d017aabc35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1a6f4a1a0774d574540ec33d6dfe4c') in 0.069297 seconds 
+  Import took 0.079478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectVertex.png
+  artifactKey: Guid(f37dfd84d8a45274fb6efc9908c07285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelectVertex.png using Guid(f37dfd84d8a45274fb6efc9908c07285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9beaad81399822dcb193396035bc9e5') in 0.011885 seconds 
+  Import took 0.020815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_MultiPushPull.png
+  artifactKey: Guid(3d384444ca0da0b46a1ef224ba1ed442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_MultiPushPull.png using Guid(3d384444ca0da0b46a1ef224ba1ed442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b63216ce5ec483619f689627ccce3d') in 0.082266 seconds 
+  Import took 0.089673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_Diagnosis.png
+  artifactKey: Guid(b290aac8a674a364d831c38b4f4e85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_Diagnosis.png using Guid(b290aac8a674a364d831c38b4f4e85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377a1e6363b5f5778ed6c27e1a084c24') in 0.132204 seconds 
+  Import took 0.139663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_Rectangle.png
+  artifactKey: Guid(e6db9df18215c71469db5655ffa65cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_Rectangle.png using Guid(e6db9df18215c71469db5655ffa65cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc0373d9743a96a521e73c2465c8c4c') in 0.010226 seconds 
+  Import took 0.019932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Box.png
+  artifactKey: Guid(86714fc7b339ae04da6d32a76a56bfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Box.png using Guid(86714fc7b339ae04da6d32a76a56bfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3c98233311a3d0fd8800da1a2053d6') in 0.044404 seconds 
+  Import took 0.054619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Fit.png
+  artifactKey: Guid(a9fa67cd110c2714e91797aa51ba2db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Fit.png using Guid(a9fa67cd110c2714e91797aa51ba2db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b16e30a5c476d008fddceb8121695b') in 0.011179 seconds 
+  Import took 0.018829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignVertCenter.png
+  artifactKey: Guid(cd42ca12273c0474d80d3243d3a551db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignVertCenter.png using Guid(cd42ca12273c0474d80d3243d3a551db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364a8904465f8e15f9c1a22e7b4c480f') in 0.010639 seconds 
+  Import took 0.019646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_GrowSelect.png
+  artifactKey: Guid(fe6511085e881384b96861e363262a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_GrowSelect.png using Guid(fe6511085e881384b96861e363262a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9335d2f8cb6a95c8f6e715aa7f2c7a') in 0.012857 seconds 
+  Import took 0.020820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_NoneSelect.png
+  artifactKey: Guid(61ef1b63ca464254d859eb223bf6e747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_NoneSelect.png using Guid(61ef1b63ca464254d859eb223bf6e747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70664bd79979305bc4c7d6b63830f77a') in 0.043413 seconds 
+  Import took 0.051086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelect.png
+  artifactKey: Guid(f528f83aaff55b84b8dd9416a4889332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelect.png using Guid(f528f83aaff55b84b8dd9416a4889332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b358e0ebf80b99c563de85fd042def4') in 0.009337 seconds 
+  Import took 0.016380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Selection.png
+  artifactKey: Guid(c965b5f756413de41ab0abb0f4351e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Selection.png using Guid(c965b5f756413de41ab0abb0f4351e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac58410e6e690f2993f99df2e47a5834') in 0.011211 seconds 
+  Import took 0.018642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_PlaneViewUnwrap.png
+  artifactKey: Guid(bfa2d9680add68746a4d75f7cf063773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_PlaneViewUnwrap.png using Guid(bfa2d9680add68746a4d75f7cf063773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb314b50bcd77b2f8c159bcefdd8dfbc') in 0.012722 seconds 
+  Import took 0.020410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectPolygon.png
+  artifactKey: Guid(e0d5bf5cc634517428d032ffa68dcc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectPolygon.png using Guid(e0d5bf5cc634517428d032ffa68dcc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09fef71ef31ee166194f192b8fe9fd5') in 0.065723 seconds 
+  Import took 0.073282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectEdge.png
+  artifactKey: Guid(ab97bb17a5cca334fbf5f7679d3efd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectEdge.png using Guid(ab97bb17a5cca334fbf5f7679d3efd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0315f88721e48d2bbea050650184797b') in 0.010823 seconds 
+  Import took 0.019192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Sew.png
+  artifactKey: Guid(f456788b3eea7c34eb6691200148d838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Sew.png using Guid(f456788b3eea7c34eb6691200148d838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5494b70f0be87144bfb708cad72d005') in 0.013097 seconds 
+  Import took 0.022133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectIsland.png
+  artifactKey: Guid(0db0fdc28b094384caf6888cc90652b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectIsland.png using Guid(0db0fdc28b094384caf6888cc90652b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55eab3518e02c7a2499cd67539114f9') in 0.011488 seconds 
+  Import took 0.020611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectPolygon.png
+  artifactKey: Guid(e0aaff872bca48f4a9722154c31a69ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectPolygon.png using Guid(e0aaff872bca48f4a9722154c31a69ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bdb0bf1e713d35d7b5ac5897cde9a5b') in 0.064156 seconds 
+  Import took 0.071729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Add.png
+  artifactKey: Guid(742f92e3bb977c84b8173d9021030170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Add.png using Guid(742f92e3bb977c84b8173d9021030170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ef39a06b60419d8d1f5317cc632682') in 0.013086 seconds 
+  Import took 0.020269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Eraser.png
+  artifactKey: Guid(79debb30feda4e14ca5242db5c0296f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Eraser.png using Guid(79debb30feda4e14ca5242db5c0296f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a9386825ef4c1dccbbaae2b55b3fb1') in 0.010079 seconds 
+  Import took 0.016877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Rectangle.png
+  artifactKey: Guid(03eedde9cfe83e343ae2da741ff0d598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Rectangle.png using Guid(03eedde9cfe83e343ae2da741ff0d598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc9b0ad8b7ac45f6fb7f92f4cabd933') in 0.042085 seconds 
+  Import took 0.049260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_RotateNeg90.png
+  artifactKey: Guid(89639c2e3409c834ab84d528655c40d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_RotateNeg90.png using Guid(89639c2e3409c834ab84d528655c40d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847a9a8c766db73046946c0d1eecfbff') in 0.010553 seconds 
+  Import took 0.017955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_SpaceVertically.png
+  artifactKey: Guid(704292b9b35de2c499b2d76769e89027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_SpaceVertically.png using Guid(704292b9b35de2c499b2d76769e89027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb07ada3a16a04e9f73762f6ee0ba6a') in 0.010644 seconds 
+  Import took 0.018050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_LocalSettings.png
+  artifactKey: Guid(e30b8cd5edc2c394c933f0e4146a5f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_LocalSettings.png using Guid(e30b8cd5edc2c394c933f0e4146a5f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275c8669bc96914d8cded7a5d054c4e4') in 0.011405 seconds 
+  Import took 0.019646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotateNeg90_02.png
+  artifactKey: Guid(cdb7c5d58693c6842a64cd67bbb0eda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotateNeg90_02.png using Guid(cdb7c5d58693c6842a64cd67bbb0eda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbdfaa74e628e9bb840140b1e9b0cf7') in 0.010192 seconds 
+  Import took 0.018934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Stair.png
+  artifactKey: Guid(8eb12eb1ce40bcc42b25fb8ef6e43d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Stair.png using Guid(8eb12eb1ce40bcc42b25fb8ef6e43d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f07a07fd75a26cfdece6ca9826c0a4') in 0.009899 seconds 
+  Import took 0.018145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_PushPull.png
+  artifactKey: Guid(e56ede76646ddf348928561f79c03a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_PushPull.png using Guid(e56ede76646ddf348928561f79c03a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543de8d9bfa4dd8d89ff9cd4d47f5001') in 0.011421 seconds 
+  Import took 0.019540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_Export.png
+  artifactKey: Guid(f7399e7d9a1b6a54eacf72ff7c6031a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_Export.png using Guid(f7399e7d9a1b6a54eacf72ff7c6031a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60197105cd0b66a69f1d96e08223a03c') in 0.012420 seconds 
+  Import took 0.019997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_SmoothingGroup.png
+  artifactKey: Guid(dc0e887adad77d848a8459a204947ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_SmoothingGroup.png using Guid(dc0e887adad77d848a8459a204947ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e3804a37a68d93c5c3aa8838e496a5') in 0.010127 seconds 
+  Import took 0.017796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Cylinder.png
+  artifactKey: Guid(9bc52d834f961c1438c32282b34b42b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Cylinder.png using Guid(9bc52d834f961c1438c32282b34b42b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cc8cdb561c56cc5e269ff852a5dece') in 0.012172 seconds 
+  Import took 0.020519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectEdge.png
+  artifactKey: Guid(bd8f02f9a7e492746820921fbe900de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectEdge.png using Guid(bd8f02f9a7e492746820921fbe900de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8735500fbeae792d8ebd3262cc3b8717') in 0.010831 seconds 
+  Import took 0.018881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Hand.png
+  artifactKey: Guid(63d2038384f30734197693a1fd8d8027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Hand.png using Guid(63d2038384f30734197693a1fd8d8027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570dcde476940fd10a062f782ce24b75') in 0.060513 seconds 
+  Import took 0.069648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_RemoveDoubles.png
+  artifactKey: Guid(7d118fa24d9fc3142b3a77d9905347c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_RemoveDoubles.png using Guid(7d118fa24d9fc3142b3a77d9905347c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff10b6417ecb33edc8f25c83ac7826c') in 0.012901 seconds 
+  Import took 0.021304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_Flatten.png
+  artifactKey: Guid(cf592c272c59dda418a42c12e6431761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_Flatten.png using Guid(cf592c272c59dda418a42c12e6431761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c4cda61c597bc309b74f5c81348b71') in 0.014684 seconds 
+  Import took 0.024330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_RotatePos90.png
+  artifactKey: Guid(14996106bb7bf554b9c6922e3745b4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_RotatePos90.png using Guid(14996106bb7bf554b9c6922e3745b4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b213c86104f55ee5e476d8373da8293') in 0.010686 seconds 
+  Import took 0.018209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToLast.png
+  artifactKey: Guid(1ba26fcc4adf7bb48beb2de8e071fb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToLast.png using Guid(1ba26fcc4adf7bb48beb2de8e071fb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915b8137d3b8562d168df48f3e01a18a') in 0.073059 seconds 
+  Import took 0.080555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_UV.png
+  artifactKey: Guid(8f797b89274d53d4b96ae054acf67498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_UV.png using Guid(8f797b89274d53d4b96ae054acf67498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a8807b53916f767f4e20d0c61dfcc5') in 0.010556 seconds 
+  Import took 0.017850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Cut.png
+  artifactKey: Guid(aec7166cf2092414f8efecfe0d020e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Cut.png using Guid(aec7166cf2092414f8efecfe0d020e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e3977c3b0a76d61683c774ac34c490') in 0.043080 seconds 
+  Import took 0.051035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Misc.png
+  artifactKey: Guid(33e866e3b963f1f4fafaa9347082bc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Misc.png using Guid(33e866e3b963f1f4fafaa9347082bc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713cffd9bb55e5abe552798c93df130f') in 0.010407 seconds 
+  Import took 0.018233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Favorite.png
+  artifactKey: Guid(af2878121441fd54db266c9aaae729de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Favorite.png using Guid(af2878121441fd54db266c9aaae729de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e81f8006e3a8c19e03fe5a0e5d660e') in 0.011720 seconds 
+  Import took 0.020147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotatePos90.png
+  artifactKey: Guid(e5686fa29e817894d964a389b090e00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotatePos90.png using Guid(e5686fa29e817894d964a389b090e00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b11489f7dd964cdba8545680819532') in 0.011909 seconds 
+  Import took 0.019702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_FlipVertical.png
+  artifactKey: Guid(88b2f917d6f573441a17d8f764dd0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_FlipVertical.png using Guid(88b2f917d6f573441a17d8f764dd0724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d03d5c6d5e088dd5f81564edd7dab2') in 0.073140 seconds 
+  Import took 0.080823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Sphere.png
+  artifactKey: Guid(73b03c518c570f84688626eebfc8e501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Sphere.png using Guid(73b03c518c570f84688626eebfc8e501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c9c8930c922d3656620bb16774e7dd') in 0.010590 seconds 
+  Import took 0.018352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_WeldAndBreak.png
+  artifactKey: Guid(2bd34d35b91518e4eb5c62d292225653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_WeldAndBreak.png using Guid(2bd34d35b91518e4eb5c62d292225653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6228bf7e1e13e5f0cedf5225094bc1c') in 0.010792 seconds 
+  Import took 0.017970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Detach.png
+  artifactKey: Guid(e2017e26da41e3b4b8405c0cd063a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Detach.png using Guid(e2017e26da41e3b4b8405c0cd063a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eae56c3c458a065749b551ceaddbe6d') in 0.010231 seconds 
+  Import took 0.017906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Packing.png
+  artifactKey: Guid(249894853605e7a40b9791f21a5451ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Packing.png using Guid(249894853605e7a40b9791f21a5451ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a266a80d08507b4792670e0454bc1b') in 0.011770 seconds 
+  Import took 0.020310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectEdge.png
+  artifactKey: Guid(78666f0ab1e7ddf429382408655af364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectEdge.png using Guid(78666f0ab1e7ddf429382408655af364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d517a8a3fca8716a89b852002d6575') in 0.010071 seconds 
+  Import took 0.018194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_Settings.png
+  artifactKey: Guid(d920c58597e7e4e4da76cc31da570499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_Settings.png using Guid(d920c58597e7e4e4da76cc31da570499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f537bfbc31b18b1383a603e246486f51') in 0.010721 seconds 
+  Import took 0.017880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Creation.png
+  artifactKey: Guid(5a44b231140136e4398ea7a0c7caa4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Creation.png using Guid(5a44b231140136e4398ea7a0c7caa4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405ee69b2d896bd60b00122467ccee7b') in 0.012680 seconds 
+  Import took 0.020619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelect.png
+  artifactKey: Guid(537c9630b7f473145a78a65d61acff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_InvertSelect.png using Guid(537c9630b7f473145a78a65d61acff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1256bcb5037a68b46c9edf2f316275cb') in 0.120718 seconds 
+  Import took 0.128476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_RefreshObject.png
+  artifactKey: Guid(84f114665f54c6347b1eedf28af176ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_RefreshObject.png using Guid(84f114665f54c6347b1eedf28af176ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9b62d1b23d07504451f238add46589') in 0.055944 seconds 
+  Import took 0.062627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignLeft.png
+  artifactKey: Guid(3b53e89c0cdc413448ca691912c6beea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignLeft.png using Guid(3b53e89c0cdc413448ca691912c6beea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b5858a3b03640a2f45187b9639f34d') in 0.064367 seconds 
+  Import took 0.072792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_Align.png
+  artifactKey: Guid(166094c3fec30704587efca94548ea47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_Align.png using Guid(166094c3fec30704587efca94548ea47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20139c99a1e927e8a2be624e0b7429d0') in 0.010489 seconds 
+  Import took 0.017916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_Flip.png
+  artifactKey: Guid(61cc349b49cf0b04581e031e53d79eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_Flip.png using Guid(61cc349b49cf0b04581e031e53d79eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadedc9f20ce10592e54437bb487aaa6') in 0.011613 seconds 
+  Import took 0.020122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Surface.png
+  artifactKey: Guid(0a74d534091f6ca44aab28dbceb81ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Surface.png using Guid(0a74d534091f6ca44aab28dbceb81ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3c5fdbf424854d635a4faaec782978') in 0.011796 seconds 
+  Import took 0.020261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_HotspotLayoutPolygon.png
+  artifactKey: Guid(5c2a963f6f8a22443a882aa710b1d457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_HotspotLayoutPolygon.png using Guid(5c2a963f6f8a22443a882aa710b1d457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c268aa1f95b4109272e0821dbc853ba') in 0.010662 seconds 
+  Import took 0.018681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_AutoLayoutUnwrap.png
+  artifactKey: Guid(d5c59dfff3a26634f834836ba4f3637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_AutoLayoutUnwrap.png using Guid(d5c59dfff3a26634f834836ba4f3637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e49809b00c303b5a7ef8f9079223e0') in 0.054395 seconds 
+  Import took 0.061850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectPolygon.png
+  artifactKey: Guid(abbd32394d314154b0a96fc3a145f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectPolygon.png using Guid(abbd32394d314154b0a96fc3a145f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0822979a5ac6eaf5759b76b6bcee26') in 0.068435 seconds 
+  Import took 0.075523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Move.png
+  artifactKey: Guid(883e8687b9f3bd744b2869e73eb40348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Move.png using Guid(883e8687b9f3bd744b2869e73eb40348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fb2ca0aece3cde9b6be51182029bc9') in 0.010174 seconds 
+  Import took 0.017638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectEdge.png
+  artifactKey: Guid(92c05185cced42afbed30570e734e27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectEdge.png using Guid(92c05185cced42afbed30570e734e27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab4055864ad2948a9484d4d436b9d89') in 0.157389 seconds 
+  Import took 0.164803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectPolygon.png
+  artifactKey: Guid(a7ad7f71e5515074e93e2ac659cce961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectPolygon.png using Guid(a7ad7f71e5515074e93e2ac659cce961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91792e21dd806dd12ce7ea932b5080d1') in 0.009502 seconds 
+  Import took 0.016920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_Cancel.png
+  artifactKey: Guid(6288e427bd9eff94ab9b824817ef4eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_Cancel.png using Guid(6288e427bd9eff94ab9b824817ef4eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fb4ba2ba30106bd924193ce183534d') in 0.010249 seconds 
+  Import took 0.019324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Normalize.png
+  artifactKey: Guid(06c983c97c99ad246b3109af2bab8593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Arrange_Normalize.png using Guid(06c983c97c99ad246b3109af2bab8593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcff57dbc32bdf46431bb6e8b10f3d49') in 0.012220 seconds 
+  Import took 0.020034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_QuickTransform.png
+  artifactKey: Guid(28378202fb35e59418d0159764075e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_QuickTransform.png using Guid(28378202fb35e59418d0159764075e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e9d526e87b0197e5487aa3504e263') in 0.011552 seconds 
+  Import took 0.020180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Group_Shapes.png
+  artifactKey: Guid(52675312810bec940829c5fa9e5ef96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Group_Shapes.png using Guid(52675312810bec940829c5fa9e5ef96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff77a1c1c4bb998166c6d64b8f6f628') in 0.010322 seconds 
+  Import took 0.018328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_Parallel.png
+  artifactKey: Guid(dd465a325f80a5b4f8fd1bac60dc7e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_Parallel.png using Guid(dd465a325f80a5b4f8fd1bac60dc7e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9090587ee32fa8203b1ceaa282d9984') in 0.012202 seconds 
+  Import took 0.020928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Bridge.png
+  artifactKey: Guid(dbb9f833d3be8874dab70bdf608a3de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Bridge.png using Guid(dbb9f833d3be8874dab70bdf608a3de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca8f2cdc45deaa30d5bcd19408d84d7') in 0.010359 seconds 
+  Import took 0.018022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldNearby.png
+  artifactKey: Guid(13bfd5cfefe574746bb5a32d7ac4b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldNearby.png using Guid(13bfd5cfefe574746bb5a32d7ac4b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83e2fac033fca0fb177e0c6890ff54f') in 0.011819 seconds 
+  Import took 0.020895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelect.png
+  artifactKey: Guid(7d2d1a1a0264a5a45a6cc599ffa5a9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelect.png using Guid(7d2d1a1a0264a5a45a6cc599ffa5a9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b99c5109f107c1e1d4baadaf48f6d53') in 0.011591 seconds 
+  Import took 0.019576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Combine.png
+  artifactKey: Guid(5987a2d45f7352e4192afb258c8fbf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Combine.png using Guid(5987a2d45f7352e4192afb258c8fbf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc8dc10a605569429e116ed533f4c0f') in 0.041604 seconds 
+  Import took 0.049516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_NoneSelect.png
+  artifactKey: Guid(62756eaa6f1545b4994779aead26fd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_NoneSelect.png using Guid(62756eaa6f1545b4994779aead26fd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71393ed1e00a421d4aab8e89e7e9fad5') in 0.009781 seconds 
+  Import took 0.016741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BridgePolygons.png
+  artifactKey: Guid(0d655b5943fbeeb408a00004809a8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BridgePolygons.png using Guid(0d655b5943fbeeb408a00004809a8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd3bff94b234ac304895c107f293437') in 0.047457 seconds 
+  Import took 0.054732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_UModelerize.png
+  artifactKey: Guid(604718b41853f014f944d7293654ab3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_UModelerize.png using Guid(604718b41853f014f944d7293654ab3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db76d5c6066f95fba7572c05adc5d3c8') in 0.055994 seconds 
+  Import took 0.063573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_PivotToCenter.png
+  artifactKey: Guid(60a5dc044272dae4da4530aeadb12fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_PivotToCenter.png using Guid(60a5dc044272dae4da4530aeadb12fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33a29848f287bb54b7e16ef6b3ed715') in 0.057522 seconds 
+  Import took 0.065723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Island.png
+  artifactKey: Guid(8d6f3708993dc9a40bfeb255a67a11da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Island.png using Guid(8d6f3708993dc9a40bfeb255a67a11da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41280d959c1c63d285e1e13b54c26391') in 0.011806 seconds 
+  Import took 0.019061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Icosahedron.png
+  artifactKey: Guid(8637c200f240c164891f518fbc664627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Icosahedron.png using Guid(8637c200f240c164891f518fbc664627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671786f3d9e94951a8fa84c931922d3f') in 0.041829 seconds 
+  Import took 0.048939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignTop.png
+  artifactKey: Guid(1a9ca62150b66d940801916f4e4b6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignTop.png using Guid(1a9ca62150b66d940801916f4e4b6b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7c9d120a8154bd2cb8e137ccff1f72') in 0.010839 seconds 
+  Import took 0.018449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Scale.png
+  artifactKey: Guid(1d5c0952f0f716544bd0788531529b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Scale.png using Guid(1d5c0952f0f716544bd0788531529b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66524183dd50a9fe39f01c41692ae96') in 0.054895 seconds 
+  Import took 0.062281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_HotspotLayout.png
+  artifactKey: Guid(b88d2b5cf6cfea548afaed128dda4d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_HotspotLayout.png using Guid(b88d2b5cf6cfea548afaed128dda4d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2be489b889745f24308429890c8311') in 0.009655 seconds 
+  Import took 0.016776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_ScrollButton_Down.png
+  artifactKey: Guid(ce2db40e4e205054889e5df374f1e296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_ScrollButton_Down.png using Guid(ce2db40e4e205054889e5df374f1e296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc427f306b96dcb90a21a3a1070e359a') in 0.033397 seconds 
+  Import took 0.041052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignBoundary.png
+  artifactKey: Guid(74212d7192a1ba743846a540d9b3df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignBoundary.png using Guid(74212d7192a1ba743846a540d9b3df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe701b778589c27bf81012caeda05dc') in 0.062405 seconds 
+  Import took 0.069439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_CombineVertices.png
+  artifactKey: Guid(f4dc94b98d84cf848aba93825f0803ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_CombineVertices.png using Guid(f4dc94b98d84cf848aba93825f0803ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b735f339b6386c782f5b0a58c56ab84b') in 0.011874 seconds 
+  Import took 0.019806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Follow.png
+  artifactKey: Guid(bf403ecfe595571429854b03d674c510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Follow.png using Guid(bf403ecfe595571429854b03d674c510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae3eaf98a1831beeb4186fdab976669') in 0.010578 seconds 
+  Import took 0.019363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Elements_Vertex.png
+  artifactKey: Guid(4d940e6a47335db43a81303ae779bb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Elements_Vertex.png using Guid(4d940e6a47335db43a81303ae779bb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35211c8a62c06bdc33510b73c0529d7e') in 0.009970 seconds 
+  Import took 0.019287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Rotate.png
+  artifactKey: Guid(3e58a8ceb01f0cd43a74460dd91576e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Transform_Rotate.png using Guid(3e58a8ceb01f0cd43a74460dd91576e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdad568487c695974ee209f77c69bc5') in 0.045063 seconds 
+  Import took 0.053083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BooleanSubtract.png
+  artifactKey: Guid(0c62297733f9c7844861a1d629dc50ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BooleanSubtract.png using Guid(0c62297733f9c7844861a1d629dc50ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbd7ba727e2a201bf7bd59aee911102') in 0.011789 seconds 
+  Import took 0.019098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_SnapMove.png
+  artifactKey: Guid(dac6dd4b0f9e51040860d31cd8e6454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_SnapMove.png using Guid(dac6dd4b0f9e51040860d31cd8e6454f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2822f98f7372caba84e7eff85c1675') in 0.010075 seconds 
+  Import took 0.017443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_MoveSew.png
+  artifactKey: Guid(4c5d1553c300c2c42a83ca4f3d6532c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_MoveSew.png using Guid(4c5d1553c300c2c42a83ca4f3d6532c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81bf10bfda06191e3ced4e1d8bfdf169') in 0.010719 seconds 
+  Import took 0.018245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Elements.png
+  artifactKey: Guid(777b54bd8c425744fb2a6a745e8f9e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Elements.png using Guid(777b54bd8c425744fb2a6a745e8f9e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1adf991c23cf510d74f458102f1123a') in 0.064195 seconds 
+  Import took 0.071366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Misc.png
+  artifactKey: Guid(0020299186d232e4f83e8aa9d6398fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Misc.png using Guid(0020299186d232e4f83e8aa9d6398fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2e3f37c2941897b1c3963fc0da9019') in 0.009373 seconds 
+  Import took 0.016454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_SpiralStair.png
+  artifactKey: Guid(c062d699c61bb5246b166ea94e9520d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_SpiralStair.png using Guid(c062d699c61bb5246b166ea94e9520d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68681560d9d0e5b20775bee031e654d1') in 0.011896 seconds 
+  Import took 0.019471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelect.png
+  artifactKey: Guid(99d12dee5c6a811448390f5db8e42108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelect.png using Guid(99d12dee5c6a811448390f5db8e42108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451d620f537fcf862bd43ff7f1a089dc') in 0.009432 seconds 
+  Import took 0.016818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_ScrollButton_Up.png
+  artifactKey: Guid(381a84629695ee14c9bcc403bcc058ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_ScrollButton_Up.png using Guid(381a84629695ee14c9bcc403bcc058ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd201a635fe5f6bb69d3c617bac3919ed') in 0.009541 seconds 
+  Import took 0.018604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectEdge.png
+  artifactKey: Guid(02148b89b9ceca54596ce59e4528cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectEdge.png using Guid(02148b89b9ceca54596ce59e4528cb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b539fdff109e5b56068aaf2668a2fb3c') in 0.058455 seconds 
+  Import took 0.067202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Tweak_Pivot.png
+  artifactKey: Guid(4456886d51be14349a2ac3acebfe9003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Tweak_Pivot.png using Guid(4456886d51be14349a2ac3acebfe9003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353e98ad75f609addebbae910f262280') in 0.010835 seconds 
+  Import took 0.017933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_ExtrudeEdge.png
+  artifactKey: Guid(a0aea51c2fb49634f98e06307bd41400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_ExtrudeEdge.png using Guid(a0aea51c2fb49634f98e06307bd41400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412c24f243025bb0bbc6eb51dcf47e92') in 0.010465 seconds 
+  Import took 0.017578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToFirst.png
+  artifactKey: Guid(c8af36894cf1a12449a6b4ded4d2e3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToFirst.png using Guid(c8af36894cf1a12449a6b4ded4d2e3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8ef3058d329d9636f5dfe4429cbc38') in 0.010835 seconds 
+  Import took 0.019028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectVertex.png
+  artifactKey: Guid(de46ad1c82f9f94428e10cb94d2cde7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_AllSelectVertex.png using Guid(de46ad1c82f9f94428e10cb94d2cde7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786860beedb235fed45890b0465f5ac5') in 0.010277 seconds 
+  Import took 0.018337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_LoopSelect.png
+  artifactKey: Guid(5a5d12e0a0aec7b4e980db994962e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_LoopSelect.png using Guid(5a5d12e0a0aec7b4e980db994962e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3ab30eb44b014fbaecef7bb5c03d7d') in 0.009393 seconds 
+  Import took 0.017450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToAverage.png
+  artifactKey: Guid(fd005321ae1aa5f4b91888a8163de39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_WeldToAverage.png using Guid(fd005321ae1aa5f4b91888a8163de39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731ea34bfc6b1705e9d51d62a6f5bfa6') in 0.047267 seconds 
+  Import took 0.054327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_UV.png
+  artifactKey: Guid(3f4cfb39525afdd41b1f5497d7299278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_UV.png using Guid(3f4cfb39525afdd41b1f5497d7299278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cc0f201c21ff05dfbe22ba4f1da7dc') in 0.011433 seconds 
+  Import took 0.018396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Break.png
+  artifactKey: Guid(f2f2de3978c7cc948823bf5d465f05fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_WeldAndBreak_Break.png using Guid(f2f2de3978c7cc948823bf5d465f05fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b276f84dd859693d0d54139cc246346e') in 0.043917 seconds 
+  Import took 0.051231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_Export.png
+  artifactKey: Guid(536b2c9355813254485d1c3d45fff092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_Export.png using Guid(536b2c9355813254485d1c3d45fff092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82a557dacc90f51b8f7ba8034f0c297') in 0.010972 seconds 
+  Import took 0.017928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Clip.png
+  artifactKey: Guid(3026bed1a39d90d42a25063d65951275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Clip.png using Guid(3026bed1a39d90d42a25063d65951275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea83f8b4be3f8b61fda9ff5709854ab') in 0.047164 seconds 
+  Import took 0.054880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectVertex.png
+  artifactKey: Guid(f6882a509c24e3c42900860f4151b179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelectVertex.png using Guid(f6882a509c24e3c42900860f4151b179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfa41103777fff86fb87b1780645f56') in 0.013061 seconds 
+  Import took 0.021957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BridgeEdges.png
+  artifactKey: Guid(9f290a0386e531d40bf953f6bc425faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BridgeEdges.png using Guid(9f290a0386e531d40bf953f6bc425faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec0b0078029b56a441d7061d472583a') in 0.033039 seconds 
+  Import took 0.042080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_PrimitiveShapes.png
+  artifactKey: Guid(26543dbda2887b24ebccfa5dec0aa046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_PrimitiveShapes.png using Guid(26543dbda2887b24ebccfa5dec0aa046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a474697222101eeb59b607bb3b3901') in 0.011447 seconds 
+  Import took 0.019496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelectEdge.png
+  artifactKey: Guid(3b9740c2e98a3994cb5a37211758ca45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_RingSelectEdge.png using Guid(3b9740c2e98a3994cb5a37211758ca45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d280b87fd45ebcc8a9062287e3382b') in 0.037191 seconds 
+  Import took 0.044785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Elements_Polygon.png
+  artifactKey: Guid(4ebceef7bb49a074b9f30f204ae4b4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Elements_Polygon.png using Guid(4ebceef7bb49a074b9f30f204ae4b4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329bfc18391aba8bfbcd230eff53c579') in 0.010471 seconds 
+  Import took 0.017669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_MirrorObject.png
+  artifactKey: Guid(4b141dedab7f60e419e3d479482f2d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_MirrorObject.png using Guid(4b141dedab7f60e419e3d479482f2d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5de0361604a5429abe4e53ed79a65db') in 0.041882 seconds 
+  Import took 0.049455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Remove.png
+  artifactKey: Guid(9a6069df7952840459ee11bbfde64857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Remove.png using Guid(9a6069df7952840459ee11bbfde64857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ac06868c986a1506dd08e87ff7a4d6') in 0.010205 seconds 
+  Import took 0.017427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Group_QuickTransform.png
+  artifactKey: Guid(efbf4db491f57964296ca4101bb1b489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Group_QuickTransform.png using Guid(efbf4db491f57964296ca4101bb1b489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4322258c8069e9e8801d235fd8fae7cc') in 0.009759 seconds 
+  Import took 0.017774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_RefreshAll.png
+  artifactKey: Guid(7b6c302074ec18a4db04485302539ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_RefreshAll.png using Guid(7b6c302074ec18a4db04485302539ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3516647f0e3d653ec2dbdca30903c8d8') in 0.010537 seconds 
+  Import took 0.018878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotatePos90_02.png
+  artifactKey: Guid(a9abe46e0850547448c0ea175f1a5da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotatePos90_02.png using Guid(a9abe46e0850547448c0ea175f1a5da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b404fbd26a033100f45a39eca2e7dba') in 0.010678 seconds 
+  Import took 0.019249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BooleanIntersection.png
+  artifactKey: Guid(e998c23722a226640a131721e62bf3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BooleanIntersection.png using Guid(e998c23722a226640a131721e62bf3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538ad87a1521ee55bafb6dde8ece610e') in 0.046446 seconds 
+  Import took 0.053949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Inset.png
+  artifactKey: Guid(287c734e14208444b92616d7f6f91a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Inset.png using Guid(287c734e14208444b92616d7f6f91a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f6858dd3ee720073827a6efb89e254') in 0.010963 seconds 
+  Import took 0.018990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_SpaceHorizontally.png
+  artifactKey: Guid(05a8c7daf249bd546a2c468cb80f2688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_SpaceHorizontally.png using Guid(05a8c7daf249bd546a2c468cb80f2688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4956508ae9a29452115550a336d96864') in 0.011575 seconds 
+  Import took 0.018773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Alignment.png
+  artifactKey: Guid(672b0fa82fe0dca44a938fa2a35ad8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Alignment.png using Guid(672b0fa82fe0dca44a938fa2a35ad8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2beede79375954c581e40274e64d754e') in 0.012225 seconds 
+  Import took 0.020320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Elements.png
+  artifactKey: Guid(a08dec42fe4bdab4494477ebd8ffb9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Elements.png using Guid(a08dec42fe4bdab4494477ebd8ffb9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7639d8728af010738a2983527b15f8a7') in 0.055781 seconds 
+  Import took 0.065857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_PolygonColor.png
+  artifactKey: Guid(ee31dbb5ffed2714f9b6fb3409c3ea12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_PolygonColor.png using Guid(ee31dbb5ffed2714f9b6fb3409c3ea12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1970d990f05e9f7083e32b8e03444a7b') in 0.010907 seconds 
+  Import took 0.018732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Elements_Object.png
+  artifactKey: Guid(84ff5d88f3d41b44f924c43b1a882841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Elements_Object.png using Guid(84ff5d88f3d41b44f924c43b1a882841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf8e996950339ba195bb3060f5d69bd') in 0.011237 seconds 
+  Import took 0.018644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Elements_HotspotPolygon.png
+  artifactKey: Guid(4068a9d8b0843164ca71b7cfcdc692fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Elements_HotspotPolygon.png using Guid(4068a9d8b0843164ca71b7cfcdc692fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea6701760d3a099de4fcf6dcfac26c7') in 0.056871 seconds 
+  Import took 0.065362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Edge.png
+  artifactKey: Guid(8bb57abcddfe6ae4688de587d4b162b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Edge.png using Guid(8bb57abcddfe6ae4688de587d4b162b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a35378ed39a1ab67395980c95c90b7c') in 0.063807 seconds 
+  Import took 0.071321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipVertical.png
+  artifactKey: Guid(79713df7dcd5a964a8278206cc48c9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipVertical.png using Guid(79713df7dcd5a964a8278206cc48c9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896f46e027eed2989e69a5ee8bf32aab') in 0.060573 seconds 
+  Import took 0.067546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Group_Tweak.png
+  artifactKey: Guid(39266626041bc5c45bacf98c04a9e4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Group_Tweak.png using Guid(39266626041bc5c45bacf98c04a9e4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc38d5db49d49ac6ae5ca9b960b8ee9') in 0.016266 seconds 
+  Import took 0.022944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_Delete.png
+  artifactKey: Guid(7190ebc3f35604349b44e356c639d247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_Delete.png using Guid(7190ebc3f35604349b44e356c639d247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84aef8605e4493d88b9ece1659883b6') in 0.038044 seconds 
+  Import took 0.046000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Duplicate.png
+  artifactKey: Guid(d001ea9d185f0dd4d8607cc71caa1fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Duplicate.png using Guid(d001ea9d185f0dd4d8607cc71caa1fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c3b2a36d4990342fc25fac0b4e3af1') in 0.012057 seconds 
+  Import took 0.020218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_CrossCursor.png
+  artifactKey: Guid(910fe65e51414f049892127b89bd4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_CrossCursor.png using Guid(910fe65e51414f049892127b89bd4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36e80dcfd2b754853ea451fa9d9e811') in 0.039205 seconds 
+  Import took 0.046694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_BooleanSplit.png
+  artifactKey: Guid(33752ac18d0f2014db29b0320632c106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_BooleanSplit.png using Guid(33752ac18d0f2014db29b0320632c106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6753bc00f0d158ebbbb43a907131a657') in 0.010187 seconds 
+  Import took 0.018054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_CubeUnwrap.png
+  artifactKey: Guid(3c37522d51feb4e4d9bb1fa8a108c41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_CubeUnwrap.png using Guid(3c37522d51feb4e4d9bb1fa8a108c41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d4b4f02e60c85ee8e99de0444ee4dd') in 0.012543 seconds 
+  Import took 0.019732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Capsule.png
+  artifactKey: Guid(d6eeb178a8c55d348a713b81eb1b8d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Capsule.png using Guid(d6eeb178a8c55d348a713b81eb1b8d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8d84fec385c3920c0a0a6ae868f4cb') in 0.012002 seconds 
+  Import took 0.020022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_CombinePolygons.png
+  artifactKey: Guid(9aa636a58b8f93b468d710e8b745a9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_CombinePolygons.png using Guid(9aa636a58b8f93b468d710e8b745a9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a0f9cb63cd45c56a26f09cd02fe9d9') in 0.011946 seconds 
+  Import took 0.019440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignHoriCenter.png
+  artifactKey: Guid(2c7393d187db76549aa0ceb5b6fe14f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Alignment_AlignHoriCenter.png using Guid(2c7393d187db76549aa0ceb5b6fe14f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73fa61d77b63437931f82d2e4d6bc59') in 0.010455 seconds 
+  Import took 0.018263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectIsland.png
+  artifactKey: Guid(cdbe047f4c734e248b80bd10facaa601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectIsland.png using Guid(cdbe047f4c734e248b80bd10facaa601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0671078b7d149956bb986bd524334c') in 0.012527 seconds 
+  Import took 0.020867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Clone.png
+  artifactKey: Guid(387756b7de69ec846beab6a99f19ce4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Clone.png using Guid(387756b7de69ec846beab6a99f19ce4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68b48ebfffd1b6668930608b6eba87f') in 0.010876 seconds 
+  Import took 0.018354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectVertex.png
+  artifactKey: Guid(5e8dfe9c44c0484ab3e503e74e81b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_ShrinkSelectVertex.png using Guid(5e8dfe9c44c0484ab3e503e74e81b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a34c5fec3692390f39d6e1496a1b97') in 0.010748 seconds 
+  Import took 0.017415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_LoopSlice.png
+  artifactKey: Guid(48128d5200e9c194b818d88ff92dec98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_LoopSlice.png using Guid(48128d5200e9c194b818d88ff92dec98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f3034898a4b34334cfb7c7734f201e') in 0.061653 seconds 
+  Import took 0.071204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_RightAngledTriangle.png
+  artifactKey: Guid(d26799a4763098b40a19ab2cae25a6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Shapes_RightAngledTriangle.png using Guid(d26799a4763098b40a19ab2cae25a6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df228b12cace0deca129b5d707846fb') in 0.010068 seconds 
+  Import took 0.016727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Room.png
+  artifactKey: Guid(73d90a5950a8c7145bf5a2ad4e9e778c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Room.png using Guid(73d90a5950a8c7145bf5a2ad4e9e778c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389a594baae6e3135875970b04ea0bc9') in 0.218622 seconds 
+  Import took 0.225621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_Elements_HotspotUV.png
+  artifactKey: Guid(4f0614affdbb8534f95fa17f8f8abc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_Elements_HotspotUV.png using Guid(4f0614affdbb8534f95fa17f8f8abc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80576029287f49ca39bd865e4f66bff') in 0.010922 seconds 
+  Import took 0.018040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipHorizontal.png
+  artifactKey: Guid(2f8dc75b909d1a248bcc3df87adc3f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipHorizontal.png using Guid(2f8dc75b909d1a248bcc3df87adc3f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b522c6c348d5090004ed45910d3c0385') in 0.012494 seconds 
+  Import took 0.020142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Cone.png
+  artifactKey: Guid(a4c44fcbfbd831c42929cb82198a8488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Cone.png using Guid(a4c44fcbfbd831c42929cb82198a8488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357e0e644cf76b8f27db548b11963ccd') in 0.012643 seconds 
+  Import took 0.020145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_Arc.png
+  artifactKey: Guid(a6f25ea744dd8f243817554e8fda3693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_Arc.png using Guid(a6f25ea744dd8f243817554e8fda3693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184caaaa9731ec928352ecb3ea869121') in 0.012621 seconds 
+  Import took 0.020124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Polygon.png
+  artifactKey: Guid(912957b7fd8132247a577814e91cd9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Elements_Polygon.png using Guid(912957b7fd8132247a577814e91cd9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311eb72898df2b1ba0fdf71f1e258394') in 0.010041 seconds 
+  Import took 0.018799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Misc_BakeTransform.png
+  artifactKey: Guid(057cd73022e5c474cb3c7a83ff70c9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Misc_BakeTransform.png using Guid(057cd73022e5c474cb3c7a83ff70c9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbbbe8f93d72a57a8ddd316b29dd0a5') in 0.013050 seconds 
+  Import took 0.020498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelectPolygon.png
+  artifactKey: Guid(8953727eec0e6ec49997e61aa49700bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_LoopSelectPolygon.png using Guid(8953727eec0e6ec49997e61aa49700bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de827f3d366dc83e6dd5546a0c0eb4bb') in 0.042873 seconds 
+  Import took 0.050493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Surface_Material.png
+  artifactKey: Guid(4e7502837f2769746acca2afd32fddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Surface_Material.png using Guid(4e7502837f2769746acca2afd32fddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98768c6e4997045edb810a8c046c5a2f') in 0.053378 seconds 
+  Import took 0.062280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Remove_Collapse.png
+  artifactKey: Guid(fa95f6af6ab55d14e867dba4f28da10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Remove_Collapse.png using Guid(fa95f6af6ab55d14e867dba4f28da10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d98584a2aa87ea80ff5b6b3bd5a0f1e') in 0.012483 seconds 
+  Import took 0.021866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectVertex.png
+  artifactKey: Guid(0cea9d09a43522c479a84925909c41b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelectVertex.png using Guid(0cea9d09a43522c479a84925909c41b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c839b16a14a98a81f45d4c4ebf2c837f') in 0.011807 seconds 
+  Import took 0.019220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Torus.png
+  artifactKey: Guid(bab6b4b6b4fa2f04791b89222ea5ac4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_PrimitiveShapes_Torus.png using Guid(bab6b4b6b4fa2f04791b89222ea5ac4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3bf354ec5d54f4fbc5f632229763d3') in 0.013067 seconds 
+  Import took 0.020732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Unwrap.png
+  artifactKey: Guid(9080c41030e137b46b2c580bf63ee8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Unwrap.png using Guid(9080c41030e137b46b2c580bf63ee8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2d94d08bdf7e010750475ee326e4de') in 0.010371 seconds 
+  Import took 0.017490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipCenter.png
+  artifactKey: Guid(b9b42cf3a1b5fac42a2109d9a9e6573f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_FlipCenter.png using Guid(b9b42cf3a1b5fac42a2109d9a9e6573f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9307784a64309148790c83455bafd7') in 0.010219 seconds 
+  Import took 0.017174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_SharedSelect.png
+  artifactKey: Guid(8b58e88107cd73348a6eabc235528943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_SharedSelect.png using Guid(8b58e88107cd73348a6eabc235528943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31ed8d7f971a87dd011a79976b2a592') in 0.010800 seconds 
+  Import took 0.018645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelect.png
+  artifactKey: Guid(756a6950209dbc64ea99e42d88549da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_AllSelect.png using Guid(756a6950209dbc64ea99e42d88549da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f7cfddfc4b716ea67ac8163dd5f6d8') in 0.009852 seconds 
+  Import took 0.016918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Drawing_Line.png
+  artifactKey: Guid(b613b33c60cd78e48a552e526b8caeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Drawing_Line.png using Guid(b613b33c60cd78e48a552e526b8caeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953fc75716dd2c3e3bb56adbe78f475c') in 0.011267 seconds 
+  Import took 0.017943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Add_Mirror.png
+  artifactKey: Guid(12ca96b0229bbd148a6bbc942c30c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Add_Mirror.png using Guid(12ca96b0229bbd148a6bbc942c30c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4bdcec55784630b22a7525ec36222a') in 0.037334 seconds 
+  Import took 0.044067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelect.png
+  artifactKey: Guid(249a1b1c9c715e9498068c5f194e2dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelect.png using Guid(249a1b1c9c715e9498068c5f194e2dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef11596c9d820365f738ff7807869976') in 0.010097 seconds 
+  Import took 0.017413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Arrange.png
+  artifactKey: Guid(de3d4beda7f53594ba7a2dd9f8bee1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Group_Arrange.png using Guid(de3d4beda7f53594ba7a2dd9f8bee1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bf9b52ff6d0b32026ca46bbc8db451') in 0.011088 seconds 
+  Import took 0.018870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_SeamUnwrap.png
+  artifactKey: Guid(62b79e814f77dd74c85540fe3b150121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Unwrap_SeamUnwrap.png using Guid(62b79e814f77dd74c85540fe3b150121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb3a80c6da6f69da1975a4b02a00427') in 0.010598 seconds 
+  Import took 0.017280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectPolygon.png
+  artifactKey: Guid(9e04571cf1f851d4283556c8992968e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_GrowSelectPolygon.png using Guid(9e04571cf1f851d4283556c8992968e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed8c36968dfa7ec33c72fd2da56c58d') in 0.009984 seconds 
+  Import took 0.017088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_Settings.png
+  artifactKey: Guid(16593fc62736b994fa2c69c37603677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Misc_Settings.png using Guid(16593fc62736b994fa2c69c37603677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10d01062062fc0aaa97f0df9d39442f') in 0.010742 seconds 
+  Import took 0.018946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotateNeg90.png
+  artifactKey: Guid(d948af0e739356941b4b56026208fe95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_QuickTransform_RotateNeg90.png using Guid(d948af0e739356941b4b56026208fe95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e355472db0517b2da8cb99153bf799') in 0.057425 seconds 
+  Import took 0.064483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_FlipHorizontal.png
+  artifactKey: Guid(3908e98e6ffc2f4439119c9a36cacf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_HSL_QuickTransform_FlipHorizontal.png using Guid(3908e98e6ffc2f4439119c9a36cacf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b122e16f680a8ad2384aacc6b4cee041') in 0.009762 seconds 
+  Import took 0.016413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelect.png
+  artifactKey: Guid(1b0a3353b19782049b4bdd3313710f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_UVEditor_Selection_InvertSelect.png using Guid(1b0a3353b19782049b4bdd3313710f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50131f9ba4f043bb560be7740bba6bcc') in 0.035808 seconds 
+  Import took 0.043091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectPolygon.png
+  artifactKey: Guid(21bea073ecfa8bd4a886533942999327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Icons/Icon_Selection_IsolatedSelectPolygon.png using Guid(21bea073ecfa8bd4a886533942999327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fb088d6902d442efcbcba41718c02a') in 0.009906 seconds 
+  Import took 0.016862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.684905 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_Black.mat
+  artifactKey: Guid(153c311d0e4004347b32a730ba5529cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_Black.mat using Guid(153c311d0e4004347b32a730ba5529cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638e3cf91af25b39a10f7fd05770ceef') in 0.549597 seconds 
+  Import took 0.556999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_blue.png
+  artifactKey: Guid(a1f3158f56dc55b4f8dc98eb643f1036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_blue.png using Guid(a1f3158f56dc55b4f8dc98eb643f1036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d185ee72b6b2b31b41fd9efcb1b6da') in 0.012282 seconds 
+  Import took 0.019711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_uveditor_selectrect.png
+  artifactKey: Guid(eec43e930300d384cad70f5bffd55098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_uveditor_selectrect.png using Guid(eec43e930300d384cad70f5bffd55098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c0e7c2aca6a0692cd7f992fb9de3fe') in 0.010125 seconds 
+  Import took 0.017183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Red.mat
+  artifactKey: Guid(d6f0ef5a063748a4abafe92d725fb4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Red.mat using Guid(d6f0ef5a063748a4abafe92d725fb4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02dbc7d6fb9439b6a20788274071d1fe') in 0.013561 seconds 
+  Import took 0.020431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_gray.png
+  artifactKey: Guid(ea700f218279def4a8cb24795d895c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_gray.png using Guid(ea700f218279def4a8cb24795d895c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e569ad5f348ca3a50ef5a489a83ec40') in 0.013982 seconds 
+  Import took 0.021550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat
+  artifactKey: Guid(774a28e8c6c332d4aaff38f866b61482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Blue.mat using Guid(774a28e8c6c332d4aaff38f866b61482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b3a28cdb89e14812f55c031a865ee0') in 0.013343 seconds 
+  Import took 0.021983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_Gray.mat
+  artifactKey: Guid(2af6cbb1c5d7d5e43bad406ef5e61a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_Gray.mat using Guid(2af6cbb1c5d7d5e43bad406ef5e61a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40aec2f1239f6a3a5e0ff2ccba91c00d') in 0.012815 seconds 
+  Import took 0.019937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_green.png
+  artifactKey: Guid(9f1913e6374d476449f204bdfc843f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_green.png using Guid(9f1913e6374d476449f204bdfc843f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2f9622137dbeb112a3da39dc32839e') in 0.012426 seconds 
+  Import took 0.020417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_OnlyVC.mat
+  artifactKey: Guid(1fbb4a1a03a301c439a629dc7371e9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_OnlyVC.mat using Guid(1fbb4a1a03a301c439a629dc7371e9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe6da88b247e1b356131a897c5bf983') in 0.013185 seconds 
+  Import took 0.021501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat
+  artifactKey: Guid(6d412f8b70d53224786a44e5ee924e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_InvisibleGrid.mat using Guid(6d412f8b70d53224786a44e5ee924e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be676becc2ed5d168aad84f9ee05b9ba') in 0.217891 seconds 
+  Import took 0.226572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_PolygonSelection.mat
+  artifactKey: Guid(57be82165aefb584cbe340319a330732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_PolygonSelection.mat using Guid(57be82165aefb584cbe340319a330732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e504b164d328ffbc3d4c0130778ab8') in 0.013654 seconds 
+  Import took 0.020580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_grid_texture.png
+  artifactKey: Guid(bab2267406150784888aa0381aa61f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_grid_texture.png using Guid(bab2267406150784888aa0381aa61f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a1cb048f6ddebbd15986c593980462') in 0.013281 seconds 
+  Import took 0.020326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Green.mat
+  artifactKey: Guid(2e07f8339bd70df439d244025f11ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Green.mat using Guid(2e07f8339bd70df439d244025f11ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8669709d787bc55f31efc70f02fc803') in 0.012517 seconds 
+  Import took 0.019699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_red.png
+  artifactKey: Guid(7e77a53ca8ee05c4886ba78ed7d061a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_ruler_grid_red.png using Guid(7e77a53ca8ee05c4886ba78ed7d061a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c6f869bb3bd276b4f328c2bcf8bcb5') in 0.014686 seconds 
+  Import took 0.024379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_WindowGlass.mat
+  artifactKey: Guid(2933b3a24ac3df34da5b77d7f2bb2eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_WindowGlass.mat using Guid(2933b3a24ac3df34da5b77d7f2bb2eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153386594ea996ed2d56016245ddc9ea') in 0.012631 seconds 
+  Import took 0.022047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_Grid.mat
+  artifactKey: Guid(cc08a396f9d431741baf53a09a60cb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_Grid.mat using Guid(cc08a396f9d431741baf53a09a60cb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f67f724642df900144f518d761b191') in 0.015215 seconds 
+  Import took 0.022286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Gray.mat
+  artifactKey: Guid(f57590384f3123d47be2ca510d885e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_RulerGrid_Gray.mat using Guid(f57590384f3123d47be2ca510d885e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d6c250c0415cce71cfcd914195494e') in 0.012736 seconds 
+  Import took 0.020088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/Materials/Basic/UModeler_White.mat
+  artifactKey: Guid(3c988341bbb142e4395e203ac73ad4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/Materials/Basic/UModeler_White.mat using Guid(3c988341bbb142e4395e203ac73ad4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220e2bdd6e09c6d04d644588d85a1200') in 0.012231 seconds 
+  Import took 0.019431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.131138 seconds.
+  path: Assets/UModeller/UModeler/About/umodeler_aboutbg_dark.png
+  artifactKey: Guid(d9b01664e2b6db341915da2cf0ef5382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/About/umodeler_aboutbg_dark.png using Guid(d9b01664e2b6db341915da2cf0ef5382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6457e8cdf7501618552bbf622187c188') in 0.010066 seconds 
+  Import took 0.017888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/UModeller/UModeler/About/umodeler_aboutbg_light.png
+  artifactKey: Guid(83070566608d448429ed0a148bcddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/About/umodeler_aboutbg_light.png using Guid(83070566608d448429ed0a148bcddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331750658a7a7f3ef2902fbceb44b053') in 0.011597 seconds 
+  Import took 0.018700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/UModeller/UModeler/About/UModeler_Banner.png
+  artifactKey: Guid(cab87422d79233644b51e520025042bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/About/UModeler_Banner.png using Guid(cab87422d79233644b51e520025042bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c489b78f556154a3c378268d247d482') in 0.016128 seconds 
+  Import took 0.023327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.362078 seconds.
+  path: Assets/Settings
+  artifactKey: Guid(860aa3b3091237142b4617dc31ff8e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings using Guid(860aa3b3091237142b4617dc31ff8e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36a17ed3ff40909d5f010b610d1f629') in 0.005618 seconds 
+  Import took 0.013155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009755 seconds.
+  path: Assets/Settings/BakeryProjectSettings.asset
+  artifactKey: Guid(76e32a57d5bb67448b9dc79768cb8e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/BakeryProjectSettings.asset using Guid(76e32a57d5bb67448b9dc79768cb8e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f356bbf53601da57cef0292b7ddbe6bb') in 0.008214 seconds 
+  Import took 0.017465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.766347 seconds.
+  path: Assets/UModeller/UModeler/commentbackground0.png
+  artifactKey: Guid(d7a93bc6089436f42aa29b2af21efa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/commentbackground0.png using Guid(d7a93bc6089436f42aa29b2af21efa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8580de8e3eda1eb8ccd2f4968cd06e8a') in 0.012741 seconds 
+  Import took 0.021289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/UModeller/UModeler/commentbackground1.png
+  artifactKey: Guid(f796e064701c62a45b3cdc7d1c3ac4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/commentbackground1.png using Guid(f796e064701c62a45b3cdc7d1c3ac4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2e571dd5f194a03a5793077c56b5ed') in 0.011207 seconds 
+  Import took 0.018592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/UModeller/UModeler/tooltip_lightskin_bg_deselected.png
+  artifactKey: Guid(39e07e740d2a25d49a14de0145c029dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/tooltip_lightskin_bg_deselected.png using Guid(39e07e740d2a25d49a14de0145c029dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd521e1f4a6f0e02e82bdb505627d92c') in 0.015543 seconds 
+  Import took 0.022409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UModeller/UModeler/CustomSkin.guiskin
+  artifactKey: Guid(a7afc553f5cdfe243a66a0de8c2178f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/CustomSkin.guiskin using Guid(a7afc553f5cdfe243a66a0de8c2178f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aac1d92c263eb38290250cd1513db11') in 0.014567 seconds 
+  Import took 0.021269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/UModeller/UModeler/tooltip_darkskin_bg_selected.png
+  artifactKey: Guid(c7ad07d24cddbab4ea04118f8a0356c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/tooltip_darkskin_bg_selected.png using Guid(c7ad07d24cddbab4ea04118f8a0356c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a989e1a2d0afdd80faa47ff719965b4c') in 0.013163 seconds 
+  Import took 0.022778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/UModeller/UModeler/lightskin.png
+  artifactKey: Guid(8c6ac3d3b35aa104ba491084e2919365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/lightskin.png using Guid(8c6ac3d3b35aa104ba491084e2919365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e757a67e31aeaa160408af592179aa') in 0.012450 seconds 
+  Import took 0.019465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/UModeller/UModeler/tooltip_darkskin_bg_deselected.png
+  artifactKey: Guid(02e84da9462282e41afea76dc9509643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/tooltip_darkskin_bg_deselected.png using Guid(02e84da9462282e41afea76dc9509643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2c1efd0d76b8212a9ca323c200896e') in 0.010477 seconds 
+  Import took 0.020311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/UModeller/UModeler/UModelerDefault.guiskin
+  artifactKey: Guid(788daf0d771aa7e4c843a3cb0fa29323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/UModelerDefault.guiskin using Guid(788daf0d771aa7e4c843a3cb0fa29323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81620c9a243bd7fc61024e28a0c3ceff') in 0.008795 seconds 
+  Import took 0.016389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/UModeller/UModeler/darkskin.png
+  artifactKey: Guid(6e76db2f4698d8a4e910895305e862da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/darkskin.png using Guid(6e76db2f4698d8a4e910895305e862da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3157adffaf49e8d505e100d113fdd6a6') in 0.011518 seconds 
+  Import took 0.018919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/UModeller/UModeler/tooltip_lightskin_bg_selected.png
+  artifactKey: Guid(de0c24431dece6c42b5440ece18b01ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler/tooltip_lightskin_bg_selected.png using Guid(de0c24431dece6c42b5440ece18b01ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d09010f2221ae887c4eea16c3812c0') in 0.011246 seconds 
+  Import took 0.018171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.775188 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/AI Entities
+  artifactKey: Guid(e4c5a7eacf0405b47b49290ff2ef3352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/AI Entities using Guid(e4c5a7eacf0405b47b49290ff2ef3352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad6544ebcd62f069bcf56f14e78d00e') in 0.006860 seconds 
+  Import took 0.015297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.121743 seconds.
+  path: Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef
+  artifactKey: Guid(ba8c092d026123a418fb4bfb797a7bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.cinemachine/Editor/com.unity.cinemachine.Editor.asmdef using Guid(ba8c092d026123a418fb4bfb797a7bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9819e719b4d3172ad9d6343e0cca1e') in 0.007945 seconds 
+  Import took 0.015482 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004467 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\pp668920\Documents\GitHub\DreamRunner_GGJ22\Library\PackageCache\com.unity.visualscripting@1.7.5\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1144ms)
+		BeginReloadAssembly (118ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (975ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (305ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (401ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5244 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.5 MB.
+System memory in use after: 210.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6214.
+Total: 4.146600 ms (FindLiveObjects: 0.389500 ms CreateObjectMapping: 0.227600 ms MarkObjects: 3.467800 ms  DeleteObjects: 0.060800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 846.799955 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(b4d3ffabb081fb54bbab8d0933f4fa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(b4d3ffabb081fb54bbab8d0933f4fa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f971c9c0df3fa1957a6cb918ea2af02b') in 0.018637 seconds 
+  Import took 0.028517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.682127 seconds.
+  path: Assets/Resources/Material
+  artifactKey: Guid(5abf21183bbcaff42858d90dc2486a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Material using Guid(5abf21183bbcaff42858d90dc2486a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d106a43a5e12609965f8e5f002df4c') in 0.006717 seconds 
+  Import took 0.014601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.575043 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(24d45bb8186d0c748ac4213f658f3c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(24d45bb8186d0c748ac4213f658f3c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ed8942db5034633e83cd88007a1b2d') in 0.007182 seconds 
+  Import took 0.016167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.717381 seconds.
+  path: Assets/UModeller
+  artifactKey: Guid(b401d023776d8844984c74919fe14514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller using Guid(b401d023776d8844984c74919fe14514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3f57de272a55a0b20d8db62b4a9260') in 0.007354 seconds 
+  Import took 0.015374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.687950 seconds.
+  path: Assets/UModeller/UModelerGeneralSettings.xml
+  artifactKey: Guid(43cc192f5183dbb409c900458847a2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModelerGeneralSettings.xml using Guid(43cc192f5183dbb409c900458847a2c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77a32ff6cd621f85ff6962f6d9a1091') in 0.032021 seconds 
+  Import took 0.039213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.324910 seconds.
+  path: Assets/UModeller/UModeler
+  artifactKey: Guid(0bb9ab9c0a20b094bad63250a6c37f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UModeller/UModeler using Guid(0bb9ab9c0a20b094bad63250a6c37f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40eb849661a44dba4337676806223718') in 0.006666 seconds 
+  Import took 0.014467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.417907 seconds.
+  path: Assets/UResources
+  artifactKey: Guid(4a8dfbbe974ae5a439c2bd062077deee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources using Guid(4a8dfbbe974ae5a439c2bd062077deee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d6e49676eb917229b5cf19cbdefad68') in 0.006645 seconds 
+  Import took 0.014545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.251360 seconds.
+  path: Assets/UResources/EngineScripts
+  artifactKey: Guid(3699d249b7c8cac469b04c84760db973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts using Guid(3699d249b7c8cac469b04c84760db973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f61dc4f186641e9345c5c2a53abdf3') in 0.006399 seconds 
+  Import took 0.014021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.191009 seconds.
+  path: Assets/UResources/EngineScripts/Engine
+  artifactKey: Guid(671638c0a53804840a739824db85db06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine using Guid(671638c0a53804840a739824db85db06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203c26b70fdb584e67f7d3e8b356c883') in 0.006416 seconds 
+  Import took 0.014563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.004194 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_Extensions
+  artifactKey: Guid(6b1d0edd3dfc3bd41b5daa25746b5bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_Extensions using Guid(6b1d0edd3dfc3bd41b5daa25746b5bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e8095d88b8f0873d7eb722494c3b69') in 0.006939 seconds 
+  Import took 0.014455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.762345 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_Timer
+  artifactKey: Guid(54d07dbbe8ffbd2479803889aa30ca9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_Timer using Guid(54d07dbbe8ffbd2479803889aa30ca9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1289e424b58e18b7ad1c05fa2b81d389') in 0.006543 seconds 
+  Import took 0.014577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.814341 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI
+  artifactKey: Guid(cd2a9fea0c5f9da418ac48b2012126de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI using Guid(cd2a9fea0c5f9da418ac48b2012126de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb8cae507e8b9ce04371dc9d4e5cd5e') in 0.006551 seconds 
+  Import took 0.014760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.368291 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts
+  artifactKey: Guid(d4a97453f137f5448967a19c04da4530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts using Guid(d4a97453f137f5448967a19c04da4530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6bf7fe144fc12ec8bc35d18e6db379') in 0.007233 seconds 
+  Import took 0.015481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.636977 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/AI Manager
+  artifactKey: Guid(6be984d481c75b943ab79f18cd279b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/AI Manager using Guid(6be984d481c75b943ab79f18cd279b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f72b7a3d2990550e5d8dec522da9c07') in 0.007088 seconds 
+  Import took 0.014694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.705923 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects
+  artifactKey: Guid(b51dc2f08c67c954ab0f84c8cf060ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects using Guid(b51dc2f08c67c954ab0f84c8cf060ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3713515101950a7615d510a608518b4') in 0.007341 seconds 
+  Import took 0.016071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.855747 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Actions
+  artifactKey: Guid(a58865551fda3b747960f681b3b2b659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Actions using Guid(a58865551fda3b747960f681b3b2b659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db090ebf507fba5c1a36def8a61f3f9f') in 0.006697 seconds 
+  Import took 0.015199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.364859 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Decisions
+  artifactKey: Guid(a4a403f5b2b39bb46b7df0da45685fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Decisions using Guid(a4a403f5b2b39bb46b7df0da45685fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ec978c4e66825b67183549fe3ee3b0') in 0.006607 seconds 
+  Import took 0.014858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.896103 seconds.
+  path: Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Entity Stats
+  artifactKey: Guid(91c34623b5907374cae38699fa095b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UResources/EngineScripts/Engine/Engine_AI/Scripts/Scriptable Objects/Entity Stats using Guid(91c34623b5907374cae38699fa095b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97e0b8ffb6b4c0ca6102a0b3b0ca825') in 0.010561 seconds 
+  Import took 0.018509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.466296 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.006681 seconds 
+  Import took 0.015504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 368.886942 seconds.
+  path: Assets/Assets.index
+  artifactKey: Guid(c7247cdb58811e34a9500252dc0ca50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets.index using Guid(c7247cdb58811e34a9500252dc0ca50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b5366053d2af216cac078e7158f9cc') in 0.026444 seconds 
+  Import took 0.034512 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
